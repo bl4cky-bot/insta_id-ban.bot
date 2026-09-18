@@ -1,1 +1,0 @@
-# insta_id-ban.bot
