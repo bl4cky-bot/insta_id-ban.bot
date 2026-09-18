@@ -1,5 +1,3 @@
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-
-if not BOT_TOKEN:
-    print("ERROR: BOT_TOKEN environment variable is missing.")
-    return
+python-telegram-bot==22.8
+instaloader==4.15
+requests==2.34.2
