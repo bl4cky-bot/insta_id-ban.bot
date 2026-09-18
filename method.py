@@ -14,7 +14,7 @@ from telegram.ext import (
 # CONFIG
 # =========================
 
-BOT_TOKEN = os.getenv("8824094549:AAEBI0jSsGvLsDY57i3jGuhGdKVRVwHS_7o")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 PASSWORD = "bl4cky"
 
 # Welcome image ka path
