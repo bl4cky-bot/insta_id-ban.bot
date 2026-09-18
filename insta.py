@@ -22,7 +22,7 @@ from telegram.ext import (
 # CONFIG
 # ============================================================
 
-BOT_TOKEN = "8809354752:AAEQAe_E-keheTv6JR9tMLBmUCLc8kSzWaw"
+BOT_TOKEN = "8868187996:AAHugI62tsx2bvisTrQmpv5X8sOc9x_8OAI"
 PASSWORD = "bl4cky"
 
 authenticated_users = set()
